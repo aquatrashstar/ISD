@@ -1,0 +1,9 @@
+#gives the sum of two given integers
+print("Insert 2 integers for the sum of")
+num1 = input("Integer_1: )
+num2 = input("Integer_2: )
+
+num1 = int(num1)
+num2 = int(num2)
+
+print(num1 + num2)
